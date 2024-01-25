@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about Me!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Hello! I am a Computer Science student studying at NYU Shanghai with a Minor in Business. My interests are, but not limited to, *web development*, *AI*, and *data analytics*.
 
