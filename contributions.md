@@ -23,5 +23,5 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
+| Feb 12   | [Thomas Jefferson Wikipedia Page](https://en.wikipedia.org/w/index.php?title=Thomas_Jefferson_High_School_for_Science_and_Technology&oldid=1206584626)   Wikipedia Page   |  I added a section expanding on the research project, an important aspect of the school    |
 |     |     |     |      |
