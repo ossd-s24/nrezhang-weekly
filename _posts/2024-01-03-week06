@@ -1,0 +1,14 @@
+---
+layout: post
+title: 'Week 6 Looking into Projects'
+---
+
+## Project Evaluations ##
+
+Over the past week, we have looked into several projects, and evaluating what contributing to these projects might look like. I looked at scikit-learn and Langchain so far at the time of writing this. Both of these are very large python projects, with thousands of contribitions and thousands of contributors. Innitially, I thought that these projects would be pretty easy and straightforward to contribute to. Such a large project with hundreds of issues must have some issues for beginners to work on right? 
+However, it is much more nuanced than that. Some projects require domain knowledge that I don't have to make meaningful coding contributions, and others don't have a very welcoming community, and only a select few people make up the majority of contributions. I learned that big does not neccessarily mean good.
+<!--more-->
+
+What I am most excitied about regarding working on an open source project is also a challenge. I am excited to find a project that I can learn a lot from, and make meaningful contribtions to something that I am very interested in or beleive in. I also beleive it is a challenge to find that project that I am genuinelly invested in, and not just making contribtions for the sake of getting a good grade in the class. 
+
+Once the challenge/process of picking a project is done, I am very excited to expand my skillset and gain that expereience working on a project with other contributors. A challenge I anticipate with contributing is understanding the project enough to make meaingful fixes/changes. However, I beleive that provided that I picked a reasonable project, this challenge can be overcome by investing time and effort into learning something that I am passionate about, which is why picking a project I truly care about to some extent is very important.
