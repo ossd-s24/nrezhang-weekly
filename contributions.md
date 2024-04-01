@@ -26,4 +26,7 @@ Replace the first row with your own contribution.
 | Feb 18     | [TikTock Extension](https://github.com/ossd-s24/TikTock/pull/14)   | Browser Extension     |  I fixed an open issue regarding the changing heights  |
 | Feb 18     | [Free Code Camp](https://github.com/freeCodeCamp/freeCodeCamp/issues/53775)   | FreeCodeCamp     |  Fixed a first-timer issue  |
 | Feb 26     | [Class website](https://github.com/joannakl/ossd/issues/99)   | Issue     |  Added an Issue |
+| March 26     | [Pandas comment](https://github.com/pandas-dev/pandas/issues/55239)   | Comment     |  Asked a question in hopes of fixing the issue, and resulted in them closing the issue |
+
+
 
