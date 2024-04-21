@@ -27,8 +27,8 @@ Replace the first row with your own contribution.
 | Feb 18     | [Free Code Camp](https://github.com/freeCodeCamp/freeCodeCamp/issues/53775)   | FreeCodeCamp     |  Fixed a first-timer issue  |
 | Feb 26     | [Class website issue](https://github.com/joannakl/ossd/issues/99)   | Issue     |  Added an Issue |
 | March 26     | [Pandas comment](https://github.com/pandas-dev/pandas/issues/55239)   | Comment     |  Asked a question in hopes of fixing the issue, and resulted in them closing the issue |
-| April 14     | [Class website pr](https://github.com/joannakl/ossd/pull/115)   | PR     |  fixed issue #114 by changing the date
-
+| April 21     | [Docstring](https://github.com/pandas-dev/pandas/pull/58352)   | PR    |   Fixed SA01 for Index.astype |
+| April 21  | [Issue Comment](https://github.com/pandas-dev/pandas/issues/58240) | Comment |Debugged to figure out what the issue was and shared findings |
 
 
 
