@@ -29,6 +29,11 @@ Replace the first row with your own contribution.
 | March 26     | [Pandas comment](https://github.com/pandas-dev/pandas/issues/55239)   | Comment     |  Asked a question in hopes of fixing the issue, and resulted in them closing the issue |
 | April 21     | [Docstring](https://github.com/pandas-dev/pandas/pull/58352)   | PR    |   Fixed SA01 for Index.astype |
 | April 21  | [Issue Comment](https://github.com/pandas-dev/pandas/issues/58240) | Comment |Debugged to figure out what the issue was and shared findings |
+| April 18  | [PR](https://github.com/pandas-dev/pandas/pull/58379) | PR | Fixed Broken Link |
+| May 2  | [Reproduced issue](https://github.com/pandas-dev/pandas/issues/58543) | Comment | Reproduced issue and gave my expected output |
+| May 2  | [Docstring issue](https://github.com/pandas-dev/pandas/issues/58536) | Issue | Added more issues for docstring fixes |
+| May 2  | [Attempted PR](https://github.com/pandas-dev/pandas/issues/58524) | PR and comment | Attempted to solve bug fix but seems like not what they were looking for |
+
 
 
 
